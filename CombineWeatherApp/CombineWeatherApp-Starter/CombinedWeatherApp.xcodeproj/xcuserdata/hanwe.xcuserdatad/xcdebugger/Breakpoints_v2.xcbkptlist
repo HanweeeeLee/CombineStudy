@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   uuid = "3D62A17E-F6FE-4B22-BC50-4F783B54C9CA"
+   type = "1"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "2D16693E-46AB-4924-BDFD-FD48321FDB25"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "CombinedWeatherApp/Weather/WeeklyWeather/WeeklyWeatherViewModel.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "67"
+            endingLineNumber = "67"
+            landmarkName = "fetchWeather(forCity:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "2D16693E-46AB-4924-BDFD-FD48321FDB25 - c4f84b71977583b2"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "CombinedWeatherApp.WeeklyWeatherViewModel.fetchWeather(forCity: Swift.String) -&gt; ()"
+                  moduleName = "CombinedWeatherApp"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/hanwe/Documents/combineTest/CombineWeatherApp/CombineWeatherApp-Starter/CombinedWeatherApp/Weather/WeeklyWeather/WeeklyWeatherViewModel.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "68"
+                  endingLineNumber = "68"
+                  offsetFromSymbolStart = "270">
+               </Location>
+               <Location
+                  uuid = "2D16693E-46AB-4924-BDFD-FD48321FDB25 - 4ff747e4db1a5fb3"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 (CombinedWeatherApp.WeeklyForecastResponse) -&gt; Swift.Array&lt;CombinedWeatherApp.DailyWeatherRowViewModel&gt; in CombinedWeatherApp.WeeklyWeatherViewModel.fetchWeather(forCity: Swift.String) -&gt; ()"
+                  moduleName = "CombinedWeatherApp"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/hanwe/Documents/combineTest/CombineWeatherApp/CombineWeatherApp-Starter/CombinedWeatherApp/Weather/WeeklyWeather/WeeklyWeatherViewModel.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "70"
+                  endingLineNumber = "70"
+                  offsetFromSymbolStart = "43">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "7E6AF6F5-5C17-41BD-8AC1-DBF29D0C248D"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "CombinedWeatherApp/Weather/OpenWeatherAPI/WeatherFetcher.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "103"
+            endingLineNumber = "103"
+            landmarkName = "forecast(with:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "560F6BEB-0C46-4499-8EA3-53B7008F04DC"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "CombinedWeatherApp/Weather/WeeklyWeather/WeeklyWeatherViewModel.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "55"
+            endingLineNumber = "55"
+            landmarkName = "init(weatherFetcher:scheduler:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
